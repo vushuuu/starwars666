@@ -1,0 +1,27 @@
+{
+  "name": "zz",
+  "version": "1.0.0",
+  "description": "\"# starwars666\" \r #\u0000 \u0000s\u0000t\u0000a\u0000r\u0000w\u0000a\u0000r\u0000s\u00006\u00006\u00006\u0000\r\u0000 \u0000",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vushuuu/starwars666.git"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars"
+  ],
+  "author": "dinesh <dineshddn6@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vushuuu/starwars666/issues"
+  },
+  "homepage": "https://github.com/vushuuu/starwars666#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.1"
+  }
+}
